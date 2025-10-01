@@ -1,16 +1,5 @@
-# online_image_classification
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Aplikasi Pendeteksi Kualitas Beras
+Capstone Project Dicoding Bootcamp
+Link Machine learning
+1. Bismi Padia: https://colab.research.google.com/drive/1xuR358jdCNT1W6dairYudksrDKghjhh4?usp=sharing
+2. Rizal Mahardika: https://colab.research.google.com/drive/14_FoCjRrLfKoJT1AwYvDrBVBIMr5cqON?usp=sharing 
